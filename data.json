@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2006-03-04",
+        "category": "Food",
+        "amount": 200.0,
+        "note": "Lunch"
+    },
+    {
+        "date": "2006-03-04",
+        "category": "Food",
+        "amount": 1000.0,
+        "note": "Lunch"
+    }
+]
